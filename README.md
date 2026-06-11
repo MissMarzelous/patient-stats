@@ -64,6 +64,9 @@ AVERAGE TEMPERATURE = 99.73
 
 ![Program Output](output.png)
 
+Text File Output
+![Program Output](txt_output.png)
+
 ---
 
 ## 🐛 Bug That Was Fixed
@@ -117,6 +120,8 @@ Fixed by using the validated `size` value directly without re-asking, eliminatin
 patient-stats/
 ├── patient_stats.py
 ├── output.png
+├── txt_output.png
+├── patient_stats.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
