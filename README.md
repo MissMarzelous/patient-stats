@@ -64,7 +64,7 @@ AVERAGE TEMPERATURE = 99.73
 
 ![Program Output](output.png)
 
-Text File Output
+## Text File Output
 ![Program Output](txt_output.png)
 
 ---
